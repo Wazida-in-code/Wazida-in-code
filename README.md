@@ -1,4 +1,4 @@
-<img src="Github-banner.png" alt="GitHub Banner" width="100%">
+![Banner](Github-banner.png)
         
 # 💫 Hi 👋, I'm Wazida Momtaz Esha
 
