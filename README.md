@@ -11,6 +11,16 @@
 
 - 🌱 **I’m currently learning:** Web development & others
 
+## 👋 About Me
+
+Hi, I'm Wazida Momtaz Esha, a web development learner currently exploring
+AI-Driven Full-Stack Engineering.
+
+- 🌱 I’m currently learning Next.js and TypeScript.
+- ⚛️ I’m building projects with React.js and Next.js.
+- 🤖 I’m exploring AI-driven development.
+- 🚀 I’m working on improving my full-stack development skills.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wazida-momtaz-esha-7a1359411/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wazidamomtazesha@gmail.com) 
 
